@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewScript : MonoBehaviour
+public class lo_bezno : MonoBehaviour
 {
-    public float moveSpeed = 4f;
     // Start is called before the first frame update
     void Start()
     {
