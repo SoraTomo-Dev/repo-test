@@ -4,11 +4,7 @@ using UnityEngine;
 
 public class lo_que_quiers : MonoBehaviour
 {
-<<<<<<< HEAD
     public float hola_mundo = 4f;
-=======
-    public float hola_mundo = 5f;
->>>>>>> collab
     // Start is called before the first frame update
     void Start()
     {
